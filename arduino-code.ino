@@ -32,6 +32,8 @@
 #include <InterruptChain.h>
 #include <RCSwitch.h>
 
+RCSwitch mySwitch = RCSwitch();
+
 void SendRadioCode(long code) {
 
   RemoteReceiver::disable();
