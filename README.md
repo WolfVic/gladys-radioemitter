@@ -28,7 +28,7 @@ Radio emitter is used to control radio plugs.
 
 | name | identifier | protocol | service 
 | ---| ---| ---| ---| 
-| My Switch | YOUR_DECIMAL_ADRESS.YOUR_DECIMAL_UNIT | DIO | radioemitter 
+| My Switch | YOUR_DECIMAL_ADRESS.YOUR_DECIMAL_GROUP.YOUR_DECIMAL_UNIT | DIO | radioemitter 
 
 
 
